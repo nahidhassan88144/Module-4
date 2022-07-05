@@ -142,3 +142,18 @@ span {
     text-align: center;
     font-size: 16px;
 }
+
+/* footer */
+
+.footer {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 16px;
+    color: aliceblue;
+}
