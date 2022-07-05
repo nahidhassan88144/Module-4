@@ -30,6 +30,10 @@ p {
     padding-bottom: 40px;
 }
 
+.padding-section {
+    padding: 80px 70px;
+}
+
 .flexible {
     display: flex;
 }
@@ -44,7 +48,6 @@ span {
 
 .half-width {
     width: 50%;
-    padding: 70px;
 }
 
 .anchor-link {
@@ -75,7 +78,7 @@ span {
     width: 50%;
     height: 490px;
     margin-left: 165px;
-    margin-top: 10px;
+    margin-top: 80px;
 }
 
 .about-me {
@@ -118,4 +121,24 @@ span {
 
 .title p {
     font-size: 18px;
+}
+
+.social-media {
+    box-shadow: 0 3px 10px 04px #E9E9E9;
+    border-radius: 20px;
+}
+
+.social-view {
+    width: 100%;
+    text-align: center;
+}
+
+.social-view h1 {
+    color: #000e;
+    padding: 10px 0px;
+}
+
+.social-view p {
+    text-align: center;
+    font-size: 16px;
 }
